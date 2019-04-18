@@ -2,7 +2,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tt_employee_portal</groupId>
   <artifactId>employee_portal</artifactId>
-  <packaging>war<packaging>
   <version>0.0.1-SNAPSHOT</version>
   <build>
       <plugins>
